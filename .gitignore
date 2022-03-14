@@ -1,3 +1,4 @@
 .vercel
 .output
+.next
 node_modules
