@@ -9,11 +9,11 @@
 //   }],
 // };
 module.exports = {
-  i18n: {
-        locales: ['en', 'de'],
-        defaultLocale: 'en',
-      },
-      
+  // i18n: {
+  //       locales: ['en', 'de'],
+  //       defaultLocale: 'en',
+  //     },
+
   async rewrites() {
     return [
       {
